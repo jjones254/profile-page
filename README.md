@@ -1,2 +1,2 @@
-# treehouse-techdegree-project01
+# treehouse-techdegree-project-01
  Profile Page
