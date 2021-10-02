@@ -1,2 +1,2 @@
-# treehouse-project1
- Personal profile
+# treehouse-techdegree-project01
+ Personal Profile
