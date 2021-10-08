@@ -4,7 +4,7 @@
  
 ### Project Instructions ###
  
-* [X] Create or find an image file to represent yourself and a new image for the background. Be aware of file size: keep the profile image under 400 KB and the background image under 1 MB (see the link in the project resources section to Picresize, an online image resizing tool).
+* [X] Create or find an image file to represent yourself and a new image for the background. Be aware of file size: keep the profile image under 400 KB and the background image         under 1 MB (see the link in the project resources section to Picresize, an online image resizing tool).
 
 * [X] Using a text editor, modify the HTML of the index.html file:
   * Add the images you collected in step 1 to the page. Please leave the class "profile-image" intact on your profile image.
